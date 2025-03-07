@@ -11,6 +11,8 @@ Codificaremos esta flag en la herramienta web [Steganography Online](https://sty
 ![Steganography Online](/img/reto2_1.png)
 
 Nos dara una imagen codificada, que es la que tendra el usuario para realizar el reto.
+El usuario debera decodificar la imagen para obtener la flag.
+
 
 
 ## Imagen original
